@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dxlsj933g/raw/upload/v1770984574/-YlmnPh-6rE_tiyjp1", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dxlsj933g/video/upload/v1770985870/For_A_Reason_Official_Video_Karan_Aujla_Tania_Ikky_Latest_Punjabi_Songs_2025_-_Rehaan_Records_y6yycu.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
